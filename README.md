@@ -77,7 +77,7 @@ Analysis includes:
 * Average age
 * Average job level
 
-![Workforce Analysis](screenshots/workforce_anaysis.png)
+![Workforce Analysis](screenshots/workforce_analysis.png)
 
 ### 3. Performance & Employee Experience
 
@@ -94,7 +94,7 @@ The analysis includes:
 * Overall performance rating
 * Overall work-life balance
 
-![Performance & Employee Experience](screenshots/perfoemance.png)
+![Performance & Employee Experience](screenshots/performance.png)
 
 ---
 
@@ -547,5 +547,3 @@ It strengthened practical skills in translating employee-level data into structu
 Feel free to explore the repository, review the dashboard, and connect with me on LinkedIn.
 
 ---
-
-**Technical Documentation:** `documentation/`
